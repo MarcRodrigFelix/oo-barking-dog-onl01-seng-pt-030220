@@ -12,7 +12,7 @@ class Dog
   def show_name
     puts "#{@name}"
   end
-  
+
   def bark
     puts "woof!"
   end
@@ -26,3 +26,4 @@ fido.name = "Fido"
 fido.name # puts => "Fido"
 
 fido.bark # => woof!
+fido.show_name
