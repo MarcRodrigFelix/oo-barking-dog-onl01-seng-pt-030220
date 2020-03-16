@@ -9,10 +9,6 @@ class Dog
     @name
   end
 
-  def show_name
-    puts "#{@name}"
-  end
-
   def bark
     puts "woof!"
   end
