@@ -22,4 +22,3 @@ fido.name = "Fido"
 fido.name # puts => "Fido"
 
 fido.bark # => woof!
-fido.show_name
